@@ -9,8 +9,9 @@ Emacs
 GNU Emacs 24.5.1 (x86_64-unknown-linux-gnu, GTK+ Version 3.10.8)
 ```
 
-[Magit](https://magit.vc/)
+[NeoTree](https://github.com/jaypei/emacs-neotree) - a package for directory navigation
 
+[Magit](https://magit.vc/)
 
 ** See .emacs file for more customization
 
