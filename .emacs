@@ -69,3 +69,7 @@
 ;; Move cursor to beginning or end of buffer
 (global-set-key (kbd "C-t") 'beginning-of-buffer)
 (global-set-key (kbd "C-b") 'end-of-buffer)
+
+;; Save desktop session for future use
+(desktop-save-mode 1)
+
